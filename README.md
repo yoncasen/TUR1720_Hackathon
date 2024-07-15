@@ -6,3 +6,5 @@
 ## Kaynaklar: 
 https://discordpy.readthedocs.io/en/stable/index.html
 ## Örnek projeler:
+> sdfs
+> sdfsdf
