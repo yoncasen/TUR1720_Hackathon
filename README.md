@@ -3,3 +3,4 @@
 > Doğa yürüyüşünde bitkileri tanımak
 ## Kaynaklar: 
 https://discordpy.readthedocs.io/en/stable/index.html
+## Örnek projeler:
