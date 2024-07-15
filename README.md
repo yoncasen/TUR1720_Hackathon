@@ -1,3 +1,3 @@
 # TUR1720_Hackathon
 ## Projemin fikri:
-> İklim Değişikliği
+> Doğa yürüyüşünde bitkileri tanımak
